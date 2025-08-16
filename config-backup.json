@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-15T13:48:12.899Z",
+  "timestamp": "2025-08-16T12:37:44.567Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -196,9 +196,9 @@
     },
     "org.gnome.desktop.background": {
       "picture-options": "'zoom'",
-      "picture-uri-dark": "'file:///var/home/pedro/.cache/bing_wallpaper.jpg'",
+      "picture-uri-dark": "'file:///var/home/pedro/.local/share/gnoming-profiles/wallpapers/bing_wallpaper.jpg'",
       "show-desktop-icons": "false",
-      "picture-uri": "'file:///var/home/pedro/.cache/bing_wallpaper.jpg'",
+      "picture-uri": "'file:///var/home/pedro/.local/share/gnoming-profiles/wallpapers/bing_wallpaper.jpg'",
       "color-shading-type": "'solid'",
       "picture-opacity": "100",
       "secondary-color": "'#000000'",
