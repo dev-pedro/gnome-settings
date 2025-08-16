@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-16T12:37:51.452Z",
+  "timestamp": "2025-08-16T13:12:32.543Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -193,35 +193,6 @@
     },
     "org.gnome.shell.app-switcher": {
       "current-workspace-only": "false"
-    },
-    "org.gnome.desktop.background": {
-      "picture-options": "'zoom'",
-      "picture-uri-dark": "'file:///var/home/pedro/.local/share/gnoming-profiles/wallpapers/bing_wallpaper.jpg'",
-      "show-desktop-icons": "false",
-      "picture-uri": "'file:///var/home/pedro/.local/share/gnoming-profiles/wallpapers/bing_wallpaper.jpg'",
-      "color-shading-type": "'solid'",
-      "picture-opacity": "100",
-      "secondary-color": "'#000000'",
-      "primary-color": "'#ff7800'"
-    },
-    "org.gnome.desktop.screensaver": {
-      "user-switch-enabled": "true",
-      "color-shading-type": "'solid'",
-      "embedded-keyboard-command": "''",
-      "embedded-keyboard-enabled": "false",
-      "status-message-enabled": "true",
-      "show-full-name-in-top-bar": "true",
-      "logout-command": "''",
-      "picture-uri": "'file:///usr/share/backgrounds/gnome/amber-l.jxl'",
-      "idle-activation-enabled": "true",
-      "lock-enabled": "true",
-      "logout-enabled": "false",
-      "primary-color": "'#ff7800'",
-      "logout-delay": "uint32 7200",
-      "picture-opacity": "100",
-      "picture-options": "'zoom'",
-      "lock-delay": "uint32 0",
-      "secondary-color": "'#000000'"
     }
   }
 }
