@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-22T11:02:30.191Z",
+  "timestamp": "2025-08-22T11:20:31.334Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -79,8 +79,8 @@
       "disable-extension-version-validation": "false",
       "always-show-log-out": "false",
       "welcome-dialog-last-shown-version": "'48.0'",
-      "enabled-extensions": "['background-logo@fedorahosted.org', 'dm-theme-changer@lynixx01.github.com', 'dash-to-dock@micxgx.gmail.com', 'caffeine@patapon.info', 'color-picker@tuberry', 'gnome-ui-tune@itstime.tech', 'MaximizeToEmptyWorkspace-extension@kovari.cc', 'tilingshell@ferrarodomenico.com', 'quick-settings-avatar@d-go', 'azwallpaper@azwallpaper.gitlab.com', 'appindicatorsupport@rgcjonas.gmail.com', 'dailybingwallpaper@trowell.net', 'gnoming-profiles@gavindi.github.com', 'CustomizeClockOnLockScreen@pratap.fastmail.fm']",
-      "disabled-extensions": "['BingWallpaper@sonichy']",
+      "enabled-extensions": "['background-logo@fedorahosted.org', 'dm-theme-changer@lynixx01.github.com', 'dash-to-dock@micxgx.gmail.com', 'caffeine@patapon.info', 'color-picker@tuberry', 'gnome-ui-tune@itstime.tech', 'MaximizeToEmptyWorkspace-extension@kovari.cc', 'tilingshell@ferrarodomenico.com', 'quick-settings-avatar@d-go', 'azwallpaper@azwallpaper.gitlab.com', 'appindicatorsupport@rgcjonas.gmail.com', 'dailybingwallpaper@trowell.net', 'gnoming-profiles@gavindi.github.com', 'CustomizeClockOnLockScreen@pratap.fastmail.fm', 'BingWallpaper@sonichy']",
+      "disabled-extensions": "@as []",
       "allow-extension-installation": "true",
       "looking-glass-history": "@as []",
       "development-tools": "true",
