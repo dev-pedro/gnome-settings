@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-19T11:25:17.676Z",
+  "timestamp": "2025-10-19T11:25:32.797Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -9,7 +9,7 @@
       "menubar-accel": "'F10'",
       "cursor-blink": "true",
       "clock-show-weekday": "true",
-      "icon-theme": "'Papirus-Dark'",
+      "icon-theme": "'Papirus-Light'",
       "gtk-im-preedit-style": "'callback'",
       "accent-color": "'blue'",
       "menus-have-tearoff": "false",
@@ -18,7 +18,7 @@
       "text-scaling-factor": "1.0",
       "gtk-color-scheme": "''",
       "gtk-timeout-initial": "200",
-      "gtk-theme": "'Adwaita'",
+      "gtk-theme": "'WhiteSur-Light'",
       "clock-show-seconds": "false",
       "scaling-factor": "uint32 0",
       "clock-show-date": "true",
@@ -43,7 +43,7 @@
       "font-hinting": "'slight'",
       "enable-animations": "true",
       "gtk-enable-primary-paste": "true",
-      "color-scheme": "'prefer-dark'",
+      "color-scheme": "'default'",
       "font-name": "'Adwaita Sans 11'",
       "font-rgba-order": "'rgb'",
       "locate-pointer": "false"
