@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-17T19:05:15.175Z",
+  "timestamp": "2025-12-17T19:06:22.857Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -43,7 +43,7 @@
       "font-hinting": "'slight'",
       "enable-animations": "true",
       "gtk-enable-primary-paste": "true",
-      "color-scheme": "'prefer-dark'",
+      "color-scheme": "'default'",
       "font-name": "'Adwaita Sans 11'",
       "font-rgba-order": "'rgb'",
       "locate-pointer": "false"
