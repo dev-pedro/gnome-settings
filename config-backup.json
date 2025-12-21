@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T12:06:28.059Z",
+  "timestamp": "2025-12-21T12:06:43.365Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -79,8 +79,8 @@
       "disable-extension-version-validation": "false",
       "always-show-log-out": "false",
       "welcome-dialog-last-shown-version": "'48.0'",
-      "enabled-extensions": "['background-logo@fedorahosted.org', 'caffeine@patapon.info', 'color-picker@tuberry', 'gnome-ui-tune@itstime.tech', 'MaximizeToEmptyWorkspace-extension@kovari.cc', 'tilingshell@ferrarodomenico.com', 'quick-settings-avatar@d-go', 'azwallpaper@azwallpaper.gitlab.com', 'appindicatorsupport@rgcjonas.gmail.com', 'dailybingwallpaper@trowell.net', 'gnoming-profiles@gavindi.github.com', 'CustomizeClockOnLockScreen@pratap.fastmail.fm', 'gnome-clipboard@b00f.github.io', 'clipboard-indicator@tudmotu.com', 'dash-in-panel@fthx', 'arcmenu@arcmenu.com', 'dash-to-dock@micxgx.gmail.com']",
-      "disabled-extensions": "['BingWallpaper@sonichy', 'dm-theme-changer@lynixx01.github.com', 'dash-to-panel@jderose9.github.com']",
+      "enabled-extensions": "['background-logo@fedorahosted.org', 'caffeine@patapon.info', 'color-picker@tuberry', 'gnome-ui-tune@itstime.tech', 'MaximizeToEmptyWorkspace-extension@kovari.cc', 'tilingshell@ferrarodomenico.com', 'quick-settings-avatar@d-go', 'azwallpaper@azwallpaper.gitlab.com', 'appindicatorsupport@rgcjonas.gmail.com', 'dailybingwallpaper@trowell.net', 'gnoming-profiles@gavindi.github.com', 'CustomizeClockOnLockScreen@pratap.fastmail.fm', 'gnome-clipboard@b00f.github.io', 'clipboard-indicator@tudmotu.com', 'dash-in-panel@fthx', 'arcmenu@arcmenu.com', 'dash-to-panel@jderose9.github.com']",
+      "disabled-extensions": "['BingWallpaper@sonichy', 'dm-theme-changer@lynixx01.github.com', 'dash-to-dock@micxgx.gmail.com']",
       "allow-extension-installation": "true",
       "looking-glass-history": "@as []",
       "development-tools": "true",
