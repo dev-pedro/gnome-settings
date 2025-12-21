@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T11:56:29.208Z",
+  "timestamp": "2025-12-21T11:56:34.969Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -18,7 +18,7 @@
       "text-scaling-factor": "1.0",
       "gtk-color-scheme": "''",
       "gtk-timeout-initial": "200",
-      "gtk-theme": "'WhiteSur-Dark'",
+      "gtk-theme": "'Adwaita'",
       "clock-show-seconds": "false",
       "scaling-factor": "uint32 0",
       "clock-show-date": "true",
