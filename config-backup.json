@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T14:28:19.285Z",
+  "timestamp": "2026-01-22T14:30:02.221Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -9,7 +9,7 @@
       "menubar-accel": "'F10'",
       "cursor-blink": "true",
       "clock-show-weekday": "true",
-      "icon-theme": "'WhiteSur-dark'",
+      "icon-theme": "'WhiteSur-light'",
       "gtk-im-preedit-style": "'callback'",
       "accent-color": "'blue'",
       "menus-have-tearoff": "false",
@@ -43,7 +43,7 @@
       "font-hinting": "'slight'",
       "enable-animations": "true",
       "gtk-enable-primary-paste": "true",
-      "color-scheme": "'prefer-dark'",
+      "color-scheme": "'default'",
       "font-name": "'Adwaita Sans 11'",
       "font-rgba-order": "'rgb'",
       "locate-pointer": "false"
