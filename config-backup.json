@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-12T17:45:27.906Z",
+  "timestamp": "2026-02-12T18:31:37.174Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -84,7 +84,7 @@
       "allow-extension-installation": "true",
       "looking-glass-history": "@as []",
       "development-tools": "true",
-      "favorite-apps": "['org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'com.google.Chrome.desktop', 'com.visualstudio.code.desktop', 'com.rtosta.zapzap.desktop']"
+      "favorite-apps": "['org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'com.google.Chrome.desktop', 'com.rtosta.zapzap.desktop']"
     },
     "org.gnome.mutter": {
       "workspaces-only-on-primary": "true",
